@@ -11,4 +11,7 @@
     <artifactId>mainModule</artifactId>
     <packaging>jar</packaging>
 
+    <build>
+        <finalName>mainModule</finalName>
+    </build>
 </project>

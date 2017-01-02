@@ -10,4 +10,9 @@ public class MainClass {
         hit++;
         System.out.println("Hello " + hit);
     }
+
+    public String testEndPoint(String name) {
+        hit++;
+        return "Hello " + name + " : " + hit;
+    }
 }
