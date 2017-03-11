@@ -11,7 +11,7 @@
     <modules>
         <module>rest</module>
         <module>mainModule</module>
+        <module>websocket</module>
     </modules>
-
 
 </project>
