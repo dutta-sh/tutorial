@@ -4,7 +4,6 @@ import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.stereotype.Controller;
 
-
 /**
  * Created by Shouvik on 3/11/2017.
  */

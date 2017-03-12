@@ -7,7 +7,7 @@
     <mvc:annotation-driven/>
 
     <websocket:message-broker application-destination-prefix="/app">
-        <websocket:stomp-endpoint path="/chat">
+        <websocket:stomp-endpoint path="/gs-guide-websocket">
             <websocket:sockjs/>
         </websocket:stomp-endpoint>
         <websocket:simple-broker prefix="/topic"/>
