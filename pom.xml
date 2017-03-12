@@ -13,6 +13,7 @@
         <module>mainModule</module>
         <module>websocket</module>
         <module>websocket-boot-spring</module>
+        <module>webapp</module>
     </modules>
 
 </project>
