@@ -12,6 +12,7 @@
         <module>rest</module>
         <module>mainModule</module>
         <module>websocket</module>
+        <module>websocket-boot-spring</module>
     </modules>
 
 </project>
