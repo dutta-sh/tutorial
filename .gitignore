@@ -1,0 +1,6 @@
+# Intellij files and folders
+.idea
+*.iml
+
+#target folders
+target
